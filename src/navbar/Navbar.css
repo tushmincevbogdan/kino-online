@@ -1,0 +1,28 @@
+ul.navbar_nav {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 100px;
+  margin-right: 100px;
+  
+}
+
+.nav_link {
+ margin: 1em 0 0.5em 0;
+    color: #4f4e4e;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 15px;
+    font-family: 'Orienta', sans-serif;
+    padding-bottom: 20px;
+
+}
+
+
+.nav_personal {
+ margin: 1em 0 0.5em 0;
+    color: #4f4e4e;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    font-family: 'Orienta', sans-serif;
+}
